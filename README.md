@@ -26,3 +26,5 @@
 
     运营商的 200M 宽带，实际上是 200Mbit/s，换算成我们的下载速度 MByte/s，200/8 => 25M/s => 这就是理论上的峰值下载速度
 
+我的计算机网络学习笔记：see [here](https://cs-notes-lpj.github.io/Internet)
+

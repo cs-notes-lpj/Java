@@ -6,4 +6,5 @@
     - [HelloWorld](/docs/1-javase/3.md)
     - [jdk、jre、jvm 的包含关系](/docs/1-javase/4.md)
     - [基础数据类型](/docs/1-javase/5.md)
+    - [浮点数的二进制表示方式](/docs/1-javase/6.md)
 

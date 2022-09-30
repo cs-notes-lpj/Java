@@ -9,4 +9,5 @@
     - [浮点数的二进制表示方式](/docs/1-javase/6.md)
     - [char 与计算机数据的编解码](/docs/1-javase/7.md)
     - [变量](/docs/1-javase/8.md)
+    - [算术运算符](/docs/1-javase/9.md)
 
